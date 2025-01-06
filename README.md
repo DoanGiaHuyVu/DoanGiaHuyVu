@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Adam Vu 👨🏻‍💻</h1>
+<h1 align="center">Hi 👋 I'm Huy or you can call me Adam 👨🏻‍💻</h1>
 
 # 💫 About Me:
 I am a fourth-year Computer Science student at Concordia University, deeply passionate about coding, machine learning, and developing robust applications.
