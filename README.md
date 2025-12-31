@@ -9,7 +9,7 @@ I am a fourth-year Computer Science student at Concordia University, deeply pass
 - 💻 Building Flask and Django applications with PostgreSQL
 - 📲 Discovering Mobile Developement and UI/UX Design through Flutter and Figma
 
-Check out my [coding website portfolio!](https://adam-vu-portfolio.onrender.com)
+Check out my [coding website portfolio!](https://doangiahuyvu.github.io/adam/)
 
 
 ## 🌐 Connect with me:
